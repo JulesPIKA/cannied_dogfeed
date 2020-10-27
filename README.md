@@ -1,2 +1,2 @@
 # cannied_dogfeed
-寵物飼料取輪廓
+狗飼料取輪廓
